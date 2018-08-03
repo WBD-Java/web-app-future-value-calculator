@@ -1,0 +1,10 @@
+body{
+    width: 500px;
+    margin: auto;
+}
+
+input {
+    margin: 2px auto;
+    border-radius: 4px;
+    padding: 12px 10px 12px 10px;
+}
